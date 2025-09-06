@@ -79,3 +79,13 @@ pass/
 - **Lucide React** - Icons
 - **React Hot Toast** - Notifications
 
+
+<div align="center">
+
+**[🌐 Live Demo](https://secure-pass-jet.vercel.app/)**
+
+Made with ❤️ by Brijesh Patel
+
+⭐ **Star this repo if you found it helpful!**
+
+</div>
